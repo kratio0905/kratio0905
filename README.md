@@ -1,10 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi i'm Kat 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">My name is Kat!</h2>
+<h3 align="left">Eager learner chasing new places🏞️</h3>
 
 ###
 
