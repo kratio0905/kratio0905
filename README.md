@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/kratio0905/Elective-Laboratories/main/Laboratory%202/Branding/Profile%20Banner/banner.png" width="100%">
+
+
+
 <h1 align="left">Hi i'm Kat 👋</h1>
 
 ###
