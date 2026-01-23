@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kratio0905/Elective-Laboratories/main/Laboratory%202/Branding/Profile%20Banner/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/kratio0905/Elective-Laboratories/main/Laboratory%202/Branding/Profile%20Banner/GE%LAB2(PROFILE%BANNER).png" width="100%">
 
 
 
