@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/kratio0905/Elective-Laboratories/main/Laboratory%202/Branding/Profile%20Banner/GE%LAB2(PROFILE%BANNER).png" width="100%">
-
-
+<img src="Laboratory%202/Branding/Profile%20Banner/GE%20LAB2%20(PROFILE%20BANNER).png" alt="Profile Banner" width="100%" />
 
 <h1 align="left">Hi i'm Kat 👋</h1>
 
