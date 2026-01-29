@@ -1,4 +1,4 @@
-<img src="Laboratory%202/Banner/Banner.png" alt="Profile Banner" width="100%" />
+![Profile Banner](Laboratory%202/Banner/Banner.png)
 
 <h1 align="left">Hi i'm Kat 👋</h1>
 
