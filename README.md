@@ -1,4 +1,4 @@
-![Profile Banner](Laboratory%202/Banner/Banner.png)
+<img src="https://raw.githubusercontent.com/kratio0905/Elective-Laboratories/main/Laboratory%202/Banner/Banner.png" width="100%" />
 
 <h1 align="left">Hi i'm Kat 👋</h1>
 
